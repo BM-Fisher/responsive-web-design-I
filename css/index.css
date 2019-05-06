@@ -222,3 +222,16 @@ button {
   border-bottom: 2px solid black;
   padding-bottom: 25px;
 }
+
+.contact {
+  margin-top: 25px;
+}
+
+address {
+  margin-bottom: 15px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 30px;
+}
